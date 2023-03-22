@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 320px;
+}
+
+.key-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 320px;
+}
+
+.keys {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
